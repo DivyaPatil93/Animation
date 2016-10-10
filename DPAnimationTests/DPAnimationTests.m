@@ -2,8 +2,8 @@
 //  DPAnimationTests.m
 //  DPAnimationTests
 //
-//  Created by Namrata on 08/10/16.
-//  Copyright © 2016 Namrata Mahajan. All rights reserved.
+//  Created by Divya on 08/10/16.
+//  Copyright © 2016 Divya Patil. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
